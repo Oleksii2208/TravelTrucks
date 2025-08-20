@@ -1,4 +1,11 @@
-#root {
+.h1 {
+  font-size: 64px;
+  /* display: flex; */
+  justify-content: center;
+  text-align: center;
+}
+
+/* #root {
   max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
@@ -39,4 +46,4 @@
 
 .read-the-docs {
   color: #888;
-}
+} */
