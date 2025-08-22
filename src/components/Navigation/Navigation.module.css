@@ -18,10 +18,10 @@
   display: flex;
   gap: 20px;
   /* justify-content: center; */
-  margin-bottom: 20px;
+  /* margin-bottom: 20px; */
   background: #f7f7f7;
 }
 .active {
-  color: #ff0000;
+  color: #d84343;
   /* text-decoration: underline; */
 }
