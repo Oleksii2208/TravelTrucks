@@ -1,6 +1,5 @@
 import React from "react";
 import s from "./HomePage.module.css";
-import Picture from "../../assets/image/Picture.jpg";
 
 const HomePage = () => {
   return (
@@ -11,7 +10,6 @@ const HomePage = () => {
           You can find everything you want in our catalog
         </p>
         <button className={s.heroBtn}>View Now</button>
-        {/* <img src={Picture} /> */}
       </div>
     </section>
   );
